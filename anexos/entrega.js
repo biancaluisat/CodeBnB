@@ -314,8 +314,8 @@ const funcionalidades = [
     ['4. Login', 'src/app/page.jsx'],
     ['5. Funcionalidade principal', 'src/app/inicio/page.jsx'],
     ['6. Gerenciamento de Cliente', 'src/app/clientes/page.jsx'],
-    ['7. Gerenciamento de Veículo', 'src/app/veiculos/page.jsx'],
-    ['8. Gerenciamento de Agendamentos', 'src/app/agendamentos/page.jsx'],
+    ['7. Gerenciamento de Imóveis', 'src/app/imoveis/page.jsx'],
+    ['8. Gerenciamento de Alugueis', 'src/app/alugueis/page.jsx'],
 ];
 for (const [item, arquivo] of funcionalidades)
     marcar(item, naPasta(`sistema/${arquivo}`), `sistema/${arquivo}`);

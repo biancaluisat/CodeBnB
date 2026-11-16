@@ -1,3 +1,15 @@
+# Documentação de Software
+
+**Sistema:** CodeBnb
+
+**Estudante:** Bianca Luisa Teodoro Silva
+
+**Data:** 16/11/2026
+
+**Número da prova:** 03
+
+Sistema web para mostrar tudo que eu sei.
+
 ## Requisitos
 
 ### 1.1 Requisitos Funcionais do Sistema
@@ -9,12 +21,8 @@
 | RF03 | Cadastrar | Deve permitir que o usuário consiga cadastrar uma conta |
 | RF04 | Consultar | Deve permitir que o usuário consulte dados de clientes, alugueis e imóveis |
 | RF05 | Atualizar | Deve permitir que o usuário atualize dados de clientes, alugueis e imóveis |
-| RF?? |
-| RF?? |
-| RF?? |
-| RF?? |
-| RF?? | Excluir | Deve permitir que o usuário exclua dados de clientes, alugueis e imóveis |
-| RF?? | Encerrar Login | Deve permitir que o usuário saia de sua conta cadastrada |
+| RF06 | Excluir | Deve permitir que o usuário exclua dados de clientes, alugueis e imóveis |
+| RF07 | Encerrar Login | Deve permitir que o usuário saia de sua conta cadastrada |
 
 ### 1.2 Requisitos Não Funcionais
 
